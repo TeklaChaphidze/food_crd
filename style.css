@@ -1,0 +1,195 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #eed3d3;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.main-container {
+  width: 1160px;
+  height: 528px;
+  background-color: #eed3d3;
+  border-radius: 16px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 100px;
+  margin-left: 160px;
+}
+
+.card-one {
+  width: 360px;
+  height: 528px;
+  border-radius: 16px;
+  background-color: #ffff;
+}
+
+.card-two {
+  width: 360px;
+  height: 528px;
+  border-radius: 16px;
+  overflow: hidden;
+  background-color: #ffff;
+}
+
+.card-three {
+  width: 360px;
+  height: 528px;
+  border-radius: 16px;
+  background-color: #ffff;
+}
+
+.section-1 {
+  font-size: 24px;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 30px;
+  color: #081f32;
+}
+
+.section-2 {
+  font-size: 24px;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 30px;
+  color: #081f32;
+}
+
+.section-3 {
+  font-size: 24px;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 30px;
+  color: #081f32;
+}
+
+.icon-1 {
+  position: relative;
+  left: 45px;
+  bottom: 1px;
+}
+
+.icon-3 {
+  position: relative;
+  left: 90px;
+  bottom: 1px;
+}
+
+.icon-4 {
+  position: relative;
+  left: 45px;
+  bottom: 1px;
+}
+
+.icon-6 {
+  position: relative;
+  left: 19px;
+  bottom: 1px;
+}
+
+.text-1 {
+  text-align: center;
+  margin-top: 15px;
+  color: #6e798c;
+}
+
+.text-2 {
+  text-align: center;
+  margin-top: 15px;
+  color: #6e798c;
+}
+
+.text-3 {
+  text-align: center;
+  margin-top: 24px;
+  color: #6e798c;
+}
+
+.second-text1 {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 35px;
+  color: #a5adbb;
+}
+
+.second-text2 {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 16px;
+  color: #a5adbb;
+}
+
+.second-text3 {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 15px;
+  color: #a5adbb;
+}
+
+.button-section {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 40px;
+}
+
+.button-section2 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 40px;
+}
+
+.button-section3 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 40px;
+}
+
+.color1 {
+  font-size: 28px;
+  color: #081f32;
+  display: flex;
+  align-items: center;
+}
+
+.color2 {
+  font-size: 20px;
+  margin-right: 20px;
+  margin-left: 10px;
+  text-decoration: line-through;
+  color: #f8593b;
+}
+
+.btn {
+  width: 114px;
+  height: 44px;
+  background-color: #2ecc71;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+}
+
+.icon1 {
+  position: absolute;
+  left: 455px;
+  bottom: 550px;
+}
+
+.icon2 {
+  position: absolute;
+  left: 855px;
+  bottom: 550px;
+}
+
+.icon3 {
+  position: absolute;
+  left: 1255px;
+  bottom: 550px;
+}
